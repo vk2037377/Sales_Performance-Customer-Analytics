@@ -1,0 +1,67 @@
+# Sales Performance & Customer Analytics Dashboard
+
+This project analyzes retail sales data using Excel, Python, MySQL, and Power BI.
+
+The objective is to identify:
+
+- Sales trends
+- Customer behavior
+- Product performance
+- Regional performance
+- Profitability insights
+
+---
+
+## Tools Used
+
+- Excel
+- Python (Pandas, SQLAlchemy)
+- MySQL
+- Power BI
+
+---
+
+## Project Workflow
+
+1. Data Cleaning in Excel
+2. Import Data into MySQL using Python
+3. SQL Data Analysis
+4. Dashboard Creation in Power BI
+5. Business Insights Generation
+
+---
+
+## Key Insights
+
+### Sales Insights
+
+- Technology generated the highest sales revenue.
+- Sales increased consistently from 2016 to 2019.
+- Copiers generated the highest profit.
+- Tables generated negative profit.
+
+### Customer Insights
+
+- Consumer segment contributed the highest revenue.
+- West region has the highest customer count.
+- Some customers generated high sales but negative profit.
+
+---
+
+## Dashboard Pages
+
+### Sales Performance Dashboard
+
+![Sales Dashboard](Images/sales_dashboard.png)
+
+### Customer Analytics Dashboard
+
+![Customer Dashboard](Images/customer_dashboard.png)
+
+### Insights Dashboard
+
+![Insights](Images/insights_page.png)
+
+---
+
+Commit Changes.
